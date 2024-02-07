@@ -139,15 +139,15 @@ li >    input[type="text"] {
 }
 
 /* Edit Task */
-ul li input[type=text] {
+.task-list__input {
     display: none;
 }
 
-ul li.task-list__item--edit-mode input[type=text] {
+.task-list__item--edit-mode .task-list__input {
     display: inline-block;
     width: 224px;
 }
 
-ul li.task-list__item--edit-mode label {
+.task-list__item--edit-mode .task-list__label {
     display: none;
 }
