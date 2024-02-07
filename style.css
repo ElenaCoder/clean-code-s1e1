@@ -92,7 +92,7 @@ label[for='new-task'] {
     display: block;
     margin: 0 0 20px;
 }
-input#new-task {
+.task--input{
     width: 318px;
     flex-grow: 1;
 }
