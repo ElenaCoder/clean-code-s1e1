@@ -13,7 +13,7 @@ body {
 .header img {
     width: 100%;
 }
-.header .header__link {
+.header__link {
     font-family: fantasy, cursive;
 }
 
@@ -70,6 +70,7 @@ label[for='new-task'] {
     text-transform: uppercase;
 }
 input[type="text"] {
+    flex-grow: 1;
     margin: 0;
     font-size: 18px;
     line-height: 18px;
@@ -92,6 +93,7 @@ label[for='new-task'] {
 }
 input#new-task {
     width: 318px;
+    flex-grow: 1;
 }
 
 /* Task list */
