@@ -4,7 +4,7 @@
 
 ## Description
 
-Here is a small single-page **TODO-list application**. The goal of the task is to edit and change code – refactor code files, while the functionality of the application should remain the same. Changes should be made according the following guidelines:  [HTML & CSS. Beginner level](#html--css-beginner-level) and [HTML & CSS. Advanced level](#html--css-advanced-level).
+Here is a small single-page **TODO-list application**. The goal of the task is to edit and change code – refactor code files, while the functionality of the application should remain the same. Changes should be made according the following guidelines:  [HTML & CSS. Beginner level](#html-css-beginner-level) and [HTML & CSS. Advanced level](#html-css-advanced-level).
 
 No automatic code formatting tools are expected to be used at this task.
 
@@ -20,9 +20,9 @@ No automatic code formatting tools are expected to be used at this task.
     - Setting an item to "Incomplete" status and moving it to the "TODO" list via checkbox
     - Animation on the delete button
 
-<details>
+<details id="html-css-beginner-level">
 
-<summary># HTML & CSS. Beginner level</summary>
+<summary>HTML & CSS. Beginner level</summary>
 
 ## 1. General HTML & CSS rules
 
@@ -415,9 +415,9 @@ h3 {
 </details>
 
 
-<details>
+<details id="html-css-advanced-level">
 
-<summary># HTML & CSS. Advanced level.</summary>
+<summary>HTML & CSS. Advanced level.</summary>
 
 ## 1. HTML
 
