@@ -22,7 +22,7 @@ No automatic code formatting tools are expected to be used at this task.
 
 <details>
 
-# HTML & CSS. Beginner level
+<summary># HTML & CSS. Beginner level</summary>
 
 ## 1. General HTML & CSS rules
 
@@ -416,7 +416,8 @@ h3 {
 
 
 <details>
-# HTML & CSS. Advanced level.
+
+<summary># HTML & CSS. Advanced level.</summary>
 
 ## 1. HTML
 
